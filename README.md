@@ -119,9 +119,9 @@ STEP 6: Run the program and choose RTL viewer to get RTL realization
 ### PROGRAM 
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 
-Developed by: O.Sirisha Reddy
+Developed by: POOJA S
 
-RegisterNumber:212222230103
+RegisterNumber:212223040146
 ```
 SR FLIPFLOPS CODE:
 module ex5(S,R,clk,Q,Qbar);
